@@ -524,10 +524,8 @@
                 <!-- ASUKA//from --><input type="hidden" name="jrc-email-address" id="jrc-email-address" /> <input type="hidden" name="jrc-card-number" id="jrc-card-number" /> <input type="hidden" name="jrc-card-expiry" id="jrc-card-expiry" /> <input type="hidden" name="jrc-card-holder" id="jrc-card-holder" /> <input type="hidden" name="jrc-settlement-amount" id="jrc-settlement-amount" /> <input type="hidden" name="jrc-telephone-number" id="jrc-telephone-number" /> <input type="hidden" name="as-username" id="as-username" /> <input type="hidden" name="as-username-kana" id="as-username-kana" /> <input type="hidden" name="as-useraddress" id="as-useraddress" />
                 <!-- to//ASUKA -->
               </div>
-              <div class="veritrans4g" data-mdk="bdce7c8a-3d8c-427f-8b08-4d8eedfbbec8" style="display: none;">
-                <!--VeriTrans4G-->
               </div>
-            </form> <input type="hidden" name="client_ip" id="client-ip" value="18.176.105.136" />
+            </form> 
             <div class="white-popup mfp-hide" id="password_remind_popup" name="password_remind_popup">
               <div class="f-sw">
                 <div class="c-plggd-center c-basics-container c-inputs">
